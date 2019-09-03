@@ -4,8 +4,8 @@
 
 <style>
 	h1 {
-		color: purple;
+		color: green;
 	}
 </style>
 
-<h1>Hello {name}!</h1>
+<h1>Cheese for {name}!</h1>
